@@ -21,7 +21,7 @@ A Flutter-based weather application that provides real-time weather information 
 
 1. Clone the repository
 ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/chacha5/weather-app.git
 ```
 2. Install dependencies
 ```bash
