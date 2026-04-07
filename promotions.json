@@ -1,0 +1,1 @@
+[{"code": "WELCOME10", "discount": 10, "type": "percent"}, {"code": "SAVE50", "discount": 50, "type": "baht"}, {"code": "FAMILY15", "discount": 15, "type": "percent", "min_tickets": 3}, {"code": "GROUP20", "discount": 20, "type": "percent", "min_tickets": 5}]

@@ -1,16 +1,33 @@
-# galleria_app
+# Weather App
 
-A new Flutter project.
+A Flutter-based weather application that provides real-time weather information with an interactive map experience.
+
+## Features
+
+- **Home** – Current weather overview including temperature, wind speed, humidity, UV index, and visibility with a 7-day forecast
+- **Interactive Map** – Tap anywhere on the map (OpenStreetMap) to get real-time weather at that location, with the option to save places
+- **Search** – Search any city or use current location to view weather conditions
+- **Alerts** – Weather notifications including high UV index, temperature rising, and humidity alerts
+- **Daily Records** – Historical weather data showing high/low temperatures, humidity, wind, and UV index
+- **Profile** – User preferences (temperature unit, wind speed unit, time format, push notifications) and recent search history
+
+## Tech Stack
+
+- Flutter
+- OpenStreetMap (OSM)
+- OpenWeatherMap API (Real-time weather data)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository
+```bash
+   git clone https://github.com/your-username/weather-app.git
+```
+2. Install dependencies
+```bash
+   flutter pub get
+```
+3. Run the app
+```bash
+   flutter run
+```

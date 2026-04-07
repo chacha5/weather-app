@@ -1,0 +1,92 @@
+[
+  {
+    "booking_id": "QA8LWQDN",
+    "username": "Mart",
+    "tickets": [
+      {
+        "name": "Mart",
+        "type": "ผู้ใหญ่",
+        "class": "ชั้น 1",
+        "sub_type": "-",
+        "price": 337.5,
+        "from": "กรุงเทพฯ",
+        "to": "สระบุรี",
+        "date": "2025-10-11",
+        "dep": "14:00",
+        "arr": "15:52",
+        "seat": "A1",
+        "route": "สายตะวันออกเฉียงเหนือ"
+      },
+      {
+        "name": "Mart",
+        "type": "เด็ก",
+        "class": "ชั้น 1",
+        "sub_type": "-",
+        "price": 168.75,
+        "from": "กรุงเทพฯ",
+        "to": "สระบุรี",
+        "date": "2025-10-11",
+        "dep": "14:00",
+        "arr": "15:52",
+        "seat": "A2",
+        "route": "สายตะวันออกเฉียงเหนือ"
+      },
+      {
+        "name": "Mart",
+        "type": "ผู้สูงอายุ",
+        "class": "ชั้น 1",
+        "sub_type": "-",
+        "price": 236.24999999999997,
+        "from": "กรุงเทพฯ",
+        "to": "สระบุรี",
+        "date": "2025-10-11",
+        "dep": "14:00",
+        "arr": "15:52",
+        "seat": "A3",
+        "route": "สายตะวันออกเฉียงเหนือ"
+      }
+    ],
+    "food_orders": [],
+    "ticket_price": 742.5,
+    "food_price": 0,
+    "total_price": 742.5,
+    "discount": 111.375,
+    "final_price": 631.125,
+    "vat": 44.17875,
+    "payment_method": "💳 Card",
+    "booking_date": "2025-10-09 09:44:27",
+    "status": "Confirmed",
+    "promo_code": "FAMILY15"
+  },
+  {
+    "booking_id": "1XWHPWEZ",
+    "username": "Mart",
+    "tickets": [
+      {
+        "name": "Mart",
+        "type": "ผู้ใหญ่",
+        "class": "ชั้น 1",
+        "sub_type": "-",
+        "price": 337.5,
+        "from": "กรุงเทพฯ",
+        "to": "สระบุรี",
+        "date": "2025-10-11",
+        "dep": "14:00",
+        "arr": "15:52",
+        "seat": "B1",
+        "route": "สายตะวันออกเฉียงเหนือ"
+      }
+    ],
+    "food_orders": [],
+    "ticket_price": 337.5,
+    "food_price": 0,
+    "total_price": 337.5,
+    "discount": 0,
+    "final_price": 337.5,
+    "vat": 23.625000000000004,
+    "payment_method": "💳 Card",
+    "booking_date": "2025-10-09 09:44:42",
+    "status": "Confirmed",
+    "promo_code": null
+  }
+]
